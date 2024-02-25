@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iankulani
 - 👀 I’m interested in Discrete Mathematics, Artificial Intelligence, Cyber Security, Green Computing and Web Development.
-- - 🌱 I’m currently learning Software Engineering, Deep learning,  
-  - - 💞️ I’m looking to collaborate on any project that will bring impact to the community
-- 📫 You can reach out me via my E-mailAddress:iancarterkulani@gmail.com or via my Whatsapp number:+265(0)988061969 
+- - 🌱 I’m currently learning Software Engineering, Deep learning, Data Structure and algorithm.  
+  - - 💞️ I’m looking to collaborate on any project that will bring impact to the community.
+- 📫 You can reach out me via my E-mailAddress:iancarterkulani@gmail.com or via my Whatsapp number:+265(0)988061969. 
 - - 😄 Pronouns: ...He
 - ⚡ Fun fact:
 
