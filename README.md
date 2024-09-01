@@ -15,6 +15,7 @@ How to Reach Me
  I promise I’m more responsive than a server to a ping!
  
 😄Pronouns He
+
 Fun Fact
 Here’s a quirky tidbit. I’m not just a tech geek; I’m also a die-hard Boston Celtics fan. In my spare time, you might find me cheering them on, debugging code, or dreaming of finding the next breakthrough in mathematics. Oh, and I’ve got a secret identity as a Red Hat hacker and amateur mathematician – but shhh, don’t tell anyone!
 
