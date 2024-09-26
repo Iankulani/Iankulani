@@ -31,7 +31,11 @@ ACCOUNT NUMBER: 1010200756      |
 SWIFT CODE: NBMAMWMW008         |    
 
 PayPal: paypal.me/IanKulani
+
 Bitcoin Address: 
+
+![BITCOIN add](https://github.com/user-attachments/assets/497d31a3-5ef9-4682-bead-7cee58207fe0)
+
 
 Every little bit helps and is deeply appreciated as I continue to explore and contribute to the tech community. Let’s make the world a better place through innovation and collaboration!
 
