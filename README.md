@@ -11,11 +11,11 @@ If you're looking for someone who can turn abstract ideas into real-world soluti
 
 <p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
 
-- 🌱 I’m currently learning ** Binary analysis, cyber security, Internet of Things (IoT), and Data Analysis **
+- 🌱 I’m currently learning Binary analysis, cyber security, Internet of Things (IoT), and Data Analysis 
 
-- 💬 Ask me about **C/C++, Java, Rust, Pasca, Robotics, Binary analysis and Cyber Security**
+- 💬 Ask me about C/C++, Java, Rust, Pasca, Robotics, Binary analysis and Cyber Security
 
-- 📫 How to reach me **iancarterkulani@gmail.com**
+- 📫 How to reach me iancarterkulani@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
