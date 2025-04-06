@@ -1,9 +1,9 @@
 
 <h1 align="center">Hello, World! 👋, I'm @Iankulani </h1>
 <h3 align="center">I’m a digital dynamo with a passion for exploring the vast tech universe and finding elegant solutions to complex problems. 
-My areas of expertise range from Discrete Mathematics, Artificial Intelligence, Cybersecurity , Internet of Things (IoT), Green Computing, and 
-Web Development to cutting-edge topics like Satellite Telecommunication 🚀🛰, Military Engineering  , Radar Systems, and Binary Analysis. 
-If you're looking for someone who can turn abstract ideas into real-world solutions, you're in the right place!  </h3>
+My areas of expertise range from Discrete Mathematics, Artificial Intelligence🧠🧠🧠🧠🧠🧠, Digital Signal Processing, Cyber Security 🖥⌨️🖱 , Internet of Things (IoT), Green Computing 💻 , and 
+Web Development to cutting-edge topics like Satellite Telecommunication 🚀🛰, Military Engineering 💀☠️💀☠️💀💀☠️☠️💀☠️💀☠️ , Radar Systems, 
+and Binary Analysis 0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣1️⃣1️⃣0️⃣0️⃣0️⃣0️⃣1️⃣0️⃣1️⃣1️⃣0️⃣1️⃣1️⃣1️⃣0️⃣. If you're looking for someone who can turn abstract ideas into real-world solutions, you're in the right place!  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankulani&label=Profile%20views&color=0e75b6&style=flat" alt="iankulani" /> </p>
 
@@ -43,9 +43,6 @@ If you're looking for someone who can turn abstract ideas into real-world soluti
 <h3 align="left">Support:</h3>
 
 <p>  <a href="https://paypal.me/IanKulani" target="_blank"> <img align="left" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" height="50" width="210" alt="Donate with PayPal" />  </a></p><br><br>
-
-<p>
-  <a href="tel:+26598061969" target="_blank"><img align="left" src="https://d2h59e6b7hdi10.cloudfront.net/public/upload/news_images/2345/airtel_money-202103181126396576.jpg" height="50" width="210" alt="Send with Airtel Money" /> </a> </p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iankulani&show_icons=true&locale=en&layout=compact" alt="iankulani" /></p>
 
