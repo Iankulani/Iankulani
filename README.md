@@ -43,6 +43,8 @@ If you're looking for someone who can turn abstract ideas into real-world soluti
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iankulani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iankulani" /></a></p><br><br>
 
+https://paypal.me/IanKulani
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iankulani&show_icons=true&locale=en&layout=compact" alt="iankulani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankulani&show_icons=true&locale=en" alt="iankulani" /></p>
