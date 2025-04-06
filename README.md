@@ -44,16 +44,8 @@ If you're looking for someone who can turn abstract ideas into real-world soluti
 
 <p>  <a href="https://paypal.me/IanKulani" target="_blank"> <img align="left" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" height="50" width="210" alt="Donate with PayPal" />  </a></p><br><br>
 
-
 <p>
-  <a href="tel:+26598061969" target="_blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Airtel_logo.svg/320px-Airtel_logo.svg.png" 
-         height="50" width="210" 
-         alt="Send with Airtel Money" />
-  </a>
-</p>
-<p><strong>Send via Airtel Money to: +26598061969</strong></p>
-<br><br>
+  <a href="tel:+26598061969" target="_blank"><img align="left" src="https://d2h59e6b7hdi10.cloudfront.net/public/upload/news_images/2345/airtel_money-202103181126396576.jpg" height="50" width="210" alt="Send with Airtel Money" /> </a> </p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iankulani&show_icons=true&locale=en&layout=compact" alt="iankulani" /></p>
 
