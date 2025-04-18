@@ -49,8 +49,13 @@ and Binary Analysis 0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣0️⃣1️⃣0️
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iankulani&show_icons=true&locale=en&layout=compact" alt="iankulani" /></p>
+<div align="center">
+  <!-- GitHub Stats -->
+  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=iankulani&count_private=true&show_icons=true&custom_title=Github&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8">
+  <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankulani&show_icons=true&locale=en" alt="iankulani" /></p>
+  <!-- Most Used Languages -->
+  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankulani&count_private=true&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c">
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankulani&" alt="iankulani" /></p>
