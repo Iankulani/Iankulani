@@ -1,5 +1,6 @@
 
 <h1 align="center">Hello, World! 👋, I'm @Iankulani </h1>
+
 <h3 align="center">I’m a digital dynamo with a passion for exploring the vast tech universe and finding elegant solutions to complex problems. 
 My areas of expertise range from Discrete Mathematics Ɐ={14,567}ἁB={β,ɷ,ɭ,ɍՔ}, Artificial Intelligence🧠🧠🧠🧠🧠🧠, Digital Signal Processing, Cyber Security 🖥⌨️🖱 , Internet of Things (IoT), Green Computing 💻 , and 
 Web Development to cutting-edge topics like Satellite Telecommunication 🚀🛰, Military Engineering 💀☠️💀☠️💀💀☠️☠️💀☠️💀☠️ , Radar Systems, 
