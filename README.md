@@ -56,8 +56,9 @@ If your organization needs top-tier cybersecurity solutions, let’s work togeth
 <p>I’m not just a coder or entrepreneur—I’m a digital advocate, a defender of democracy, and a lifelong learner. From Malawi to global stages, my journey is proof that passion, innovation, and persistence can drive real change.
 The best is yet to come—stay tuned!</p>
 
-
-<p> 🎮 Discord:https://discord.gg/eM5zkgu5 </p>
+<a href="https://discord.gg/eM5zkgu5" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
+</a>
 
 <p>“Never Fade.” — Ian Carter Kulani</p>
 
