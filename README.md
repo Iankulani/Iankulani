@@ -25,22 +25,34 @@ In an era where cyber warfare is a growing threat, my mission is to safeguard in
 Coder @Afrique-Youth-Election-Observers (AYEO), Democracy is precious, and I’m proud to contribute my skills to AYEO, a youth-led initiative ensuring fair elections across Africa. We use Drones for Real-Time Election Monitoring, 
 SQL Databases for Detecting Fraud, C++ for Secure Voting Systems, Machine Learning to Identify Irregularities, AYEO embodies my belief in transparency, youth empowerment, and the power of technology to defend democracy.</p>
 
-<p>My Global Engagements</p>
 
 <p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022), ITU’s 11th Regional Cyber Drill for Africa (2023), Space Conference for Africa (2022 & 2023),
 Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), These experiences have deepened my expertise in cybersecurity, 
 space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
-<p>Beyond the Screen: Who I Am
-My Hobbies & Interests
-When I’m not immersed in tech, I enjoy:
+<p> **My Hobbies & Interests**
 
-🎮 Video Games – Sharpening strategy and creativity, 🏀 Basketball – Proudly supporting the Boston Celtics ☘.♟️ Chess – Mastering the art of foresight, 
-🤖 Robotics – Building intelligent machines, 🎨 Drawing & Painting – Expressing ideas beyond code, 🎤 Sound Engineering – Merging tech with music, 📸 Photography – Capturing moments that inspire.</p>
+🎮 Video Games – Sharpening strategy and creativity.
+
+🏀 Basketball – Proudly supporting the Boston Celtics ☘.
 
 
-<p> Discipline & Precision </p>
+♟️ Chess – Mastering the art of foresight.
+
+
+🤖 Robotics – Building intelligent machines.
+
+
+🎨 Drawing & Painting – Expressing ideas beyond code.
+
+
+🎤 Sound Engineering – Merging tech with music. 
+
+📸 Photography – Capturing moments that inspire.</p>
+
+
+<p> ** Discipline & Precision ** </p>
 
 <p>My love for Karate , Kendama, and Origami reflects my dedication to focus, patience, and mastery—values that shape my work and life.</p>
 
