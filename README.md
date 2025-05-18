@@ -1,5 +1,11 @@
 <h1 align="center">Hello, World! 👋, I'm @Iankulani </h1>
 
+<!-- Greeting with Typing Animation -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Greetings%2C+Welcome+to+my+Profile!;My+name+is+Ian+Carter+Kulani." alt="Typing SVG" />
+</h1>
+
 
 Hello! I’m Ian Carter Kulani, a passionate technologist, cybersecurity specialist, and advocate for democratic integrity. 
 Born on October 2, 2000, in Mzimba Embangweni, Malawi—the "Warm Heart of Africa"—I’m currently pursuing a Master’s degree in Computer Science 
@@ -121,3 +127,9 @@ The best is yet to come—stay tuned!</p>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankulani&" alt="iankulani" /></p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
+</h1>
+
+
