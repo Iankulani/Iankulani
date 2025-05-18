@@ -78,7 +78,8 @@ The best is yet to come—stay tuned!</p>
 <a href="https://discord.gg/eM5zkgu5" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
 </a>
-  
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ian-carter-kulani-913679255/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iancarterkulani" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/ian.carter.96155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ian.carter.96155" height="30" width="40" /></a>
