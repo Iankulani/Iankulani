@@ -21,11 +21,9 @@ SQL Databases for Detecting Fraud, C++ for Secure Voting Systems, Machine Learni
 
 <p>My Global Engagements</p>
 
-<p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022), ITU’s 11th Regional Cyber Drill for Africa (2023), Space Conference for Africa (2022 & 2023)
-
-Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), 
-These experiences have deepened my expertise in cybersecurity, space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com 
-or shoot me on LinkedIn—I’d love to collaborate!</P>
+<p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022), ITU’s 11th Regional Cyber Drill for Africa (2023), Space Conference for Africa (2022 & 2023),
+Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), These experiences have deepened my expertise in cybersecurity, 
+space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
 <p>Beyond the Screen: Who I Am
