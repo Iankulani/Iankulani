@@ -6,7 +6,7 @@ Born on October 2, 2000, in Mzimba Embangweni, Malawi—the "Warm Heart of Afric
 at East London University, where I explore the vast universe of technology and develop solutions to complex challenges. When I’m not coding or securing digital systems, you’ll find me cheering for my beloved Boston Celtics ☘ or engaging in political discourse as a supporter of the United Democratic Front (UDF)💛.
 
   
-<p> My journey is driven by curiosity, innovation, and a deep desire to make a meaningful impact. My Academic & Professional Path Mastering the Digital World At East London University, 
+<p> My journey is driven by curiosity, innovation, and a deep desire to make a meaningful impact. My Academic & Professional Path Mastering the Digital World at East London University, 
 I immerse myself in cutting-edge fields, including, Artificial Intelligence & Machine Learning, Cybersecurity & Ethical Hacking, Computer Networking & Internet Exchange Points (IXP), 
 Reverse Engineering & Binary Analysis, Big Data Analytics & Deep Learning, 	Satellite Telecommunications & Radar Systems, Video Game Development & Advanced Software Engineering, 
 I don’t just study these subjects—I apply them to solve real-world problems. </p>
@@ -56,9 +56,6 @@ If your organization needs top-tier cybersecurity solutions, let’s work togeth
 <p>I’m not just a coder or entrepreneur—I’m a digital advocate, a defender of democracy, and a lifelong learner. From Malawi to global stages, my journey is proof that passion, innovation, and persistence can drive real change.
 The best is yet to come—stay tuned!</p>
 
-<a href="https://discord.gg/eM5zkgu5" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
-</a>
 
 <p>“Never Fade.” — Ian Carter Kulani</p>
 
