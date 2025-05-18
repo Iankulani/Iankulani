@@ -1,10 +1,69 @@
-
 <h1 align="center">Hello, World! 👋, I'm @Iankulani </h1>
 
-<h3 align="center">I’m a digital dynamo with a passion for exploring the vast tech universe and finding elegant solutions to complex problems. 
-My areas of expertise range from Discrete Mathematics Ɐ={14,567}ἁB={β,ɷ,ɭ,ɍՔ}, Artificial Intelligence🧠🧠🧠🧠🧠🧠, Digital Signal Processing, Cyber Security 🖥⌨️🖱 , Internet of Things (IoT), Green Computing 💻 , and 
-Web Development to cutting-edge topics like Satellite Telecommunication 🚀🛰, Military Engineering 💀☠️💀☠️💀💀☠️☠️💀☠️💀☠️ , Radar Systems, 
-and Binary Analysis 0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣1️⃣1️⃣0️⃣0️⃣0️⃣0️⃣1️⃣0️⃣1️⃣1️⃣0️⃣1️⃣1️⃣1️⃣0️⃣. If you're looking for someone who can turn abstract ideas into real-world solutions, you're in the right place!  </h3>
+
+Hello! I’m Ian Carter Kulani, a passionate technologist, cybersecurity specialist, and advocate for democratic integrity. 
+Born on October 2, 2000, in Mzimba Embangweni, Malawi—the "Warm Heart of Africa"—I’m currently pursuing a Master’s degree in Computer Science 
+at East London University, where I explore the vast universe of technology and develop solutions to complex challenges. When I’m not coding or securing digital systems, you’ll find me cheering for my beloved Boston Celtics ☘ or engaging in political discourse as a supporter of the United Democratic Front (UDF)💛.
+
+  
+<p> My journey is driven by curiosity, innovation, and a deep desire to make a meaningful impact. My Academic & Professional Path Mastering the Digital World At East London University, 
+I immerse myself in cutting-edge fields, including, Artificial Intelligence & Machine Learning, Cybersecurity & Ethical Hacking, Computer Networking & Internet Exchange Points (IXP), 
+Reverse Engineering & Binary Analysis, Big Data Analytics & Deep Learning, 	Satellite Telecommunications & Radar Systems, Video Game Development & Advanced Software Engineering, 
+I don’t just study these subjects—I apply them to solve real-world problems. </p>
+
+
+<p>I founded @Accurate-Cyber-Defense, a Malawian cybersecurity startup, to protect critical systems from digital threats. 
+My team and I specialize in Cyber Drills & Digital Forensics, Securing SCADA Systems Against Cyber Attacks, Penetration Testing & Vulnerability Assessments,  
+In an era where cyber warfare is a growing threat, my mission is to safeguard infrastructure that impacts lives. 
+  
+Coder @Afrique-Youth-Election-Observers (AYEO), Democracy is precious, and I’m proud to contribute my skills to AYEO, a youth-led initiative ensuring fair elections across Africa. We use Drones for Real-Time Election Monitoring, 
+SQL Databases for Detecting Fraud, C++ for Secure Voting Systems, Machine Learning to Identify Irregularities, AYEO embodies my belief in transparency, youth empowerment, and the power of technology to defend democracy.</p>
+
+<p>My Global Engagements</p>
+
+<p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022), ITU’s 11th Regional Cyber Drill for Africa (2023), Space Conference for Africa (2022 & 2023)
+
+Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), 
+These experiences have deepened my expertise in cybersecurity, space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com 
+or shoot me on LinkedIn—I’d love to collaborate!</P>
+
+
+<p>Beyond the Screen: Who I Am
+My Hobbies & Interests
+When I’m not immersed in tech, I enjoy:
+
+🎮 Video Games – Sharpening strategy and creativity, 🏀 Basketball – Proudly supporting the Boston Celtics ☘.♟️ Chess – Mastering the art of foresight, 
+🤖 Robotics – Building intelligent machines, 🎨 Drawing & Painting – Expressing ideas beyond code, 🎤 Sound Engineering – Merging tech with music, 📸 Photography – Capturing moments that inspire.</p>
+
+
+<p> Discipline & Precision </p>
+
+<p>My love for Karate , Kendama, and Origami reflects my dedication to focus, patience, and mastery—values that shape my work and life.</p>
+
+<p>Join Me in Shaping the Future</p>
+
+<p>Let’s Connect on Discord</p>
+
+<p>Want to discuss AI, cybersecurity, or tech innovation? Join my Discord community and let’s build the future together.</p>
+
+<p>Support @Afrique-Youth-Election-Observers (AYEO) </p>
+
+<p> If you believe in fair elections, consider supporting AYEO through donations, volunteering, or advocacy. Every effort counts!</p>
+
+<p>Partner with @Accurate-Cyber-Defense</p>
+
+If your organization needs top-tier cybersecurity solutions, let’s work together to protect what matters.
+
+
+<p>I’m not just a coder or entrepreneur—I’m a digital advocate, a defender of democracy, and a lifelong learner. From Malawi to global stages, my journey is proof that passion, innovation, and persistence can drive real change.
+The best is yet to come—stay tuned!</p>
+
+
+<p> 🎮 Discord:https://discord.gg/eM5zkgu5 </p>
+
+<p>“Never Fade.” — Ian Carter Kulani</p>
+
+  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankulani&label=Profile%20views&color=0e75b6&style=flat" alt="iankulani" /> </p>
 
@@ -12,17 +71,18 @@ and Binary Analysis 0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣0️⃣1️⃣0️
 
 <p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
 
-- 🌱 I’m currently learning Binary analysis, cyber security, Internet of Things (IoT), and Data Analysis 
-
-- 💬 Ask me about C/C++, Java, Rust, Pasca, Robotics, Binary analysis and Cyber Security
-
-- 📫 How to reach me iancarterkulani@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ian-carter-kulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ian-carter-kulan" height="30" width="40" /></a>
 <a href="https://dev.to/ian_carterkulani_a1b9224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ian_carterkulani_a1b9224" height="30" width="40" /></a>
 <a href="https://twitter.com/iankulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iankulani" height="30" width="40" /></a>
+
+<!-- Discord Invite -->
+<a href="https://discord.gg/eM5zkgu5" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
+</a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ian-carter-kulani-913679255/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iancarterkulani" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/ian.carter.96155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ian.carter.96155" height="30" width="40" /></a>
