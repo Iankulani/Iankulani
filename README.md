@@ -3,7 +3,7 @@
 <!-- Greeting with Typing Animation -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Greetings%2C+Welcome+to+my+Profile!;My+name+is+Ian+Carter+Kulani." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Greetings%2C+Welcome+to+my+Profile!;My+name+is+Ian+Carter+Kulani." alt="Typing SVG" />
 </h1>
 
 
@@ -141,7 +141,8 @@ The best is yet to come—stay tuned!</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankulani&" alt="iankulani" /></p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </h1>
+
 
 
