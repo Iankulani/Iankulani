@@ -98,6 +98,7 @@ The best is yet to come—stay tuned!</p>
 </a>
 
 
+
 <!-- WhatsApp Invite -->
 <a href="https://wa.me/265988061969" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" />
@@ -107,6 +108,33 @@ The best is yet to come—stay tuned!</p>
 <a href="https://t.me/Iankulani" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
 </a>
+
+
+
+
+<p align="left">
+  <a href="https://mastodon.social/@Iankulani" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Mastodon-@Iankulani-6364FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTMyIDRjLTIxLjIgMC0yOC4zNiAxMC4xMi0yOC4zNiAyMi41N1YzMWMwIDE5LjgxIDExLjczIDI1LjM2IDIxLjg3IDI1LjM2IDEuODMgMCAzLjY3LS4yMiA1LjQ0LS42NC40OC0uMTEuNjUtLjY3LjY1LTEuMmE1LjQ1IDUuNDUgMCAwIDEtLjA1LS44M0EyMy40MiAyMy40MiAwIDAgMSAzMiA0OGMtNi4zNiAwLTExLjQ4LTUuNjQtMTEuNzgtMTEuOTYtLjAxLS4zLS4yNS0uODMuNzYtLjc5bDMuNTYuMDJhMSAxIDAgMCAwIC45OC0uNzdoLjE0Yy42MSAwIC45Ni0uMzggLjk2LS45N3YtNC44OGMwLTYuNDYuNzMtOC40NyAxLjI2LTkuNC42My0xLjExIDEuMzMtMS4zNCAyLjQyLTEuMzMuOS4wMiAxLjU0LjMuMiAxLjQ1IDEuMDEgMi40NSAxLjM3IDIuNzkgMS41My42NC4yMSAxLjEuMDEgMS4zOC0uNTIuMTEtLjI4LjUzLTIuMDYuNzctMy4zMi4yMy0xLjI2LjQzLTIuNTUuNzUtMy42NS4xNi0uNTguMzQtMS4xMi42Ni0xLjY0LjMzLS41My44My0uOTcgMS41Mi0xLjIzIDEuODktLjY4IDQuNjgtLjgzIDYuNTgtLjgzIDMuNzYgMCA4LjM2LjY2IDExLjE4IDMuMzMuNTUuNTIuOTggMS4xMyAxLjM2IDEuOThhMjAuODMgMjAuODMgMCAwIDEgMS41IDEuOTVjLjA3LjA2LjA4LjE0LjE1LjE5LjIyLjI0LjUzLjI1Ljc1LjI1LjMzIDAgLjY5LS4xMi44Ni0uMzYuMTUtLjIyLjEyLS41Mi4xMi0uNzIgMC0xLjI3LS4wNC0yLjUtLjA3LS4zMS0uNzMtLjU3LS45NC0uODhhNC43IDQuNyAwIDAgMS0uNjMtMS42NmMtLjI0LS41My0uMjctMS4xNi0uMDMtMS42Ny4yNS0uNTYuNzUtLjkyIDEuMzUtLjk0YTQuNDcgNC40NyAwIDAgMSAzLjYxIDEuN2MxLjQzLjIzIDIuODguNjkgNC4xMSAxLjM1LjY2LjM1IDEuMzguNzYgMi4xNyAxLjIzLjc0LjQ0IDEuMjQuODQgMS40MyAxLjA1LjEyLjEzLjIuMjcuMjYuNDMuMDMuMS4wOC4yMy4xLjMuMTIuMzYuMDYuNzMuMDYuOXYxLjI4YzAgMC4zNiAwIC43Mi0uMDUuOTgtLjAyLjEtLjA3LjItLjEuMzEtLjA3LjE5LS4xNS4zNy0uMjQuNTUtMS4zIDIuNTYtMi44IDQuMjgtNC44NSA1LjYzLTIuMTggMS42Mi00Ljc2IDIuOTYtNy43NSA0LjM2LTIuNDMuODgtNS4xOCAxLjgtOC4zMyAyLjM5LTEuMi4yMi0yLjQ1LjQtMy43Mi41M0MzMy4yOSA2MCAzMiA2MCAzMiA2MGgtLjAyYy0xLjMgMC0yLjU4LS4wOS0zLjg1LS4yNi0yLjMtLjMtNC41OC0uNzUtNi42OC0xLjMzLTIuNTYtLjY3LTQuODUtMS40My02Ljk1LTIuMzVhMjQuNjkgMjQuNjkgMCAwIDEtNC44MS0yLjc2Yy0yLjctMS41OC01LjA1LTMuNjItNi43My02LjI2QzguMiA0My4yNyA2LjIgMzkuMDUgNi4yIDMxVjI2LjU3QzYuMiAxNC4xMiAxMy40IDQgMzQgNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" 
+      alt="Mastodon @Iankulani" />
+   
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.tiktok.com/@iancarterkulani?lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@iancarterkulani-black?logo=tiktok&style=for-the-badge" alt="TikTok @iancarterkulani" />
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://bsky.app/profile/iankulani.bsky.social" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Bluesky-@iankulani.bsky.social-2CA5E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABg3Am7AAAABHNCSVQICAgIfAhkiAAAAW9JREFUaIHtWEsOw0AUXRtrZtCKJK0EhaXYO2ZgktxBGwV7tCEgDykTQgTYgRaYhBx2FT38zNz+wnzzcyRTln1pmkakqmTqi3ACuyQOAN5BrTASLzFdFGcMTFMHJGOpqxdh37AoDMe0xOXYQwHY+0CXnBD9v4JAL+RR/3AHMfDEz4EQlmxofQUKd2kc8NKk+CKADSCMD4HAvpv4CV9jY2y0CLX+j1erZrGowUY2gW8bqQGTB+j4egfuWMWYFZLMDa1x3TCswAyHaRYRGh8kK8zLkCTAX7gS1smUJz3VzzlMBtvIv7TXCeM3GM/LoWsTrQv9MeLR+YzhrhWQAAAABJRU5ErkJggg==" 
+      alt="Bluesky @iankulani.bsky.social" />
+  </a>
+</p>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ian-carter-kulani-913679255/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iancarterkulani" height="30" width="40" /></a>
