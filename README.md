@@ -97,6 +97,10 @@ The best is yet to come—stay tuned!</p>
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
 </a>
 
+<!-- Twitch Invite -->
+<a href="https://www.twitch.tv/iankulani" target="_blank" title="Watch me on Twitch!">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733641.png" alt="Twitch Logo - IanKulani" height="30" width="40" />
+</a>
 
 
 <!-- WhatsApp Invite -->
