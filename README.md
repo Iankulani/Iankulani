@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Greetings%2C+Welcome+to+my+Profile!;My+name+is+Ian+Carter+Kulani." alt="Typing SVG" />
 </h1>
 
+![carter](https://github.com/user-attachments/assets/e4f1708d-299c-4e2a-99aa-d1617c3880b9)
+
+
 
 Hello! I’m Ian Carter Kulani, a passionate technologist, cybersecurity specialist, and advocate for democratic integrity. 
 Born on October 2, 2000, in Mzimba Embangweni, Malawi—the "Warm Heart of Africa"—I’m currently pursuing a Master’s degree in Computer Science 
