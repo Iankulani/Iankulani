@@ -34,7 +34,7 @@ Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting 
 space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
-<pMy Hobbies & Interests
+<p> My Hobbies & Interests
 
 🎮 Video Games – Sharpening strategy and creativity.
 
