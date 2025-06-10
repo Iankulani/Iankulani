@@ -34,7 +34,7 @@ Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting 
 space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
-<p**My Hobbies & Interests
+<pMy Hobbies & Interests
 
 🎮 Video Games – Sharpening strategy and creativity.
 
@@ -55,7 +55,7 @@ space tech, climate resilience, and digital policy. Want me at your event? Reach
 📸 Photography – Capturing moments that inspire.</p>
 
 
-<p> ** Discipline & Precision ** </p>
+<p> Discipline & Precision  </p>
 
 <p>My love for Karate , Kendama, and Origami reflects my dedication to focus, patience, and mastery—values that shape my work and life.</p>
 
