@@ -116,8 +116,7 @@ The best is yet to come—stay tuned!</p>
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
 </a>
 
-
-
+<p align="left"> <a href="https://steamcommunity.com/profiles/76561199868649405/" target="_blank"> <img src="https://img.shields.io/badge/Steam-iankulani1-171A21?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam iankulani1" /> </a> </p> <p align="left"> <a href="https://github.com/iankulani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Ian_Carter-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Ian Carter" /> </a> </p>
 
 <p align="left">
   <a href="https://mastodon.social/@Iankulani" target="_blank">
@@ -142,6 +141,8 @@ The best is yet to come—stay tuned!</p>
       alt="Bluesky @iankulani.bsky.social" />
   </a>
 </p>
+
+
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ian-carter-kulani-913679255/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iancarterkulani" height="30" width="40" /></a>
