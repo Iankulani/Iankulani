@@ -25,13 +25,14 @@ I don’t just study these subjects—I apply them to solve real-world problems.
 My team and I specialize in Cyber Drills & Digital Forensics, Securing SCADA Systems Against Cyber Attacks, Penetration Testing & Vulnerability Assessments,  
 In an era where cyber warfare is a growing threat, my mission is to safeguard infrastructure that impacts lives. 
   
-Coder @Afrique-Youth-Election-Observers (AYEO), Democracy is precious, and I’m proud to contribute my skills to AYEO, a youth-led initiative ensuring fair elections across Africa. We use Drones for Real-Time Election Monitoring, 
-SQL Databases for Detecting Fraud, C++ for Secure Voting Systems, Machine Learning to Identify Irregularities, AYEO embodies my belief in transparency, youth empowerment, and the power of technology to defend democracy.</p>
+Coder @Afrique-Youth-Election-Observers (AYEO), Democracy is precious, and I’m proud to contribute my skills to AYEO, a youth-led initiative ensuring fair elections across Africa. 
+We use Drones for Real-Time Election Monitoring, SQL Databases for Detecting Fraud, C++ for Secure Voting Systems, Machine Learning to Identify Irregularities, AYEO embodies my belief in transparency, 
+youth empowerment, and the power of technology to defend democracy.</p>
 
 
 <p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022) https://igf.africa/, ITU’s 11th Regional Cyber Drill for Africa (2023)https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/EVENTS/2023/Regional-Cyberdrill-for-Africa-.aspx, Space Conference for Africa (2022 & 2023)https://spaceinafrica.com/2023/10/19/excerpts-from-the-first-day-of-the-malawi-space-conference-2023/,
-Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), These experiences have deepened my expertise in cybersecurity, 
-space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
+Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), These experiences have deepened my expertise in cybersecurity, space tech, 
+climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
 <p> My Hobbies & Interests
