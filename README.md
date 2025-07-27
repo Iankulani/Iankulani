@@ -1,4 +1,5 @@
-<h1 align="center"> > Whoami </h1>
+<h1 align="center" style="color:#00ff88;">&gt; Whoami</h1>
+
 
 <!-- Greeting with Typing Animation -->
 
