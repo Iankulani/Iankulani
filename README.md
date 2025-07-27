@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 👋, I'm @Iankulani </h1>
+<h1 align="center"> > Whoami </h1>
 
 <!-- Greeting with Typing Animation -->
 
