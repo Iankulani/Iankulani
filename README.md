@@ -1,4 +1,8 @@
-<h1 align="center" style="color:#00ff88;">&gt; Whoami</h1>
+<h1 align="center" style="color:#00ff88;">&gt; Whoami</h1><p align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%3E+Whoami" alt="Typing SVG" />
+</p>
+
 
 
 <!-- Greeting with Typing Animation -->
