@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%3E+Whoami" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=00CC00&center=true&vCenter=true&width=500&lines=%3E+Whoami" alt="Typing SVG" />
 </p>
+
+
   
 <!-- Greeting with Typing Animation -->
 
