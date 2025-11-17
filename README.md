@@ -149,6 +149,14 @@ The best is yet to come—stay tuned!</p>
 
 
 <p align="left">
+  <a href="https://www.pinterest.com/iancarterkulani/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-@iancarterkulani-red?logo=pinterest&style=for-the-badge" alt="Pinterest @iancarterkulani" />
+  </a>
+</p>
+
+
+
+<p align="left">
   <a href="https://bsky.app/profile/iankulani.bsky.social" target="_blank">
     <img 
       src="https://img.shields.io/badge/Bluesky-@iankulani.bsky.social-2CA5E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABg3Am7AAAABHNCSVQICAgIfAhkiAAAAW9JREFUaIHtWEsOw0AUXRtrZtCKJK0EhaXYO2ZgktxBGwV7tCEgDykTQgTYgRaYhBx2FT38zNz+wnzzcyRTln1pmkakqmTqi3ACuyQOAN5BrTASLzFdFGcMTFMHJGOpqxdh37AoDMe0xOXYQwHY+0CXnBD9v4JAL+RR/3AHMfDEz4EQlmxofQUKd2kc8NKk+CKADSCMD4HAvpv4CV9jY2y0CLX+j1erZrGowUY2gW8bqQGTB+j4egfuWMWYFZLMDa1x3TCswAyHaRYRGh8kK8zLkCTAX7gS1smUJz3VzzlMBtvIv7TXCeM3GM/LoWsTrQv9MeLR+YzhrhWQAAAABJRU5ErkJggg==" 
