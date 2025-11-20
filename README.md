@@ -39,28 +39,28 @@ Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting 
 climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
-<p> My Hobbies & Interests
+## <p> My Hobbies & Interests
 
-🎮 Video Games – Sharpening strategy and creativity.
+* 🎮 Video Games – Sharpening strategy and creativity.
 
-🏀 Basketball – Proudly supporting the Boston Celtics ☘.
-
-
-♟️ Chess – Mastering the art of foresight.
+* 🏀 Basketball – Proudly supporting the Boston Celtics ☘.
 
 
-🤖 Robotics – Building intelligent machines.
+* ♟️ Chess – Mastering the art of foresight.
 
 
-🎨 Drawing & Painting – Expressing ideas beyond code.
+* 🤖 Robotics – Building intelligent machines.
 
 
-🎤 Sound Engineering – Merging tech with music. 
-
-📸 Photography – Capturing moments that inspire.</p>
+* 🎨 Drawing & Painting – Expressing ideas beyond code.
 
 
-<p> Discipline & Precision  </p>
+* 🎤 Sound Engineering – Merging tech with music. 
+
+* 📸 Photography – Capturing moments that inspire.</p>
+
+
+## <p> Discipline & Precision  </p>
 
 <p>My love for Karate , Kendama, and Origami reflects my dedication to focus, patience, and mastery—values that shape my work and life.</p>
 
@@ -83,17 +83,16 @@ If your organization needs top-tier cybersecurity solutions, let’s work togeth
 The best is yet to come—stay tuned!</p>
 
 
-<p>“Never Fade.” — Ian Carter Kulani</p>
+## <p>“Never Fade.” — Ian Carter Kulani</p>
 
   </h3>
-
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankulani&label=Profile%20views&color=0e75b6&style=flat" alt="iankulani" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -101,6 +100,7 @@ The best is yet to come—stay tuned!</p>
 <a href="https://codepen.io/ian-carter-kulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ian-carter-kulan" height="30" width="40" /></a>
 <a href="https://dev.to/ian_carterkulani_a1b9224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ian_carterkulani_a1b9224" height="30" width="40" /></a>
 <a href="https://twitter.com/iankulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iankulani" height="30" width="40" /></a>
+
 
 <!-- Discord Invite -->
 <a href="https://discord.gg/eM5zkgu5" target="_blank">
@@ -122,6 +122,9 @@ The best is yet to come—stay tuned!</p>
 <a href="https://t.me/Iankulani" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
 </a>
+
+<!-- X invite -->
+<p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
 
 <p align="left"> <a href="https://steamcommunity.com/profiles/76561199868649405/" target="_blank"> <img src="https://img.shields.io/badge/Steam-iankulani1-171A21?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam iankulani1" /> </a> </p> <p align="left"> <a href="https://github.com/iankulani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Ian_Carter-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Ian Carter" /> </a> </p>
 
