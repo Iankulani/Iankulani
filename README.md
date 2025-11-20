@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=%3E+Whoami" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%3E+Whoami" alt="Typing SVG" />
 </p>
+
 
 
   
 <!-- Greeting with Typing Animation -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Greetings%2C+Welcome+to+my+Profile!;My+name+is+Ian+Carter+Kulani." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Greetings%2C+Welcome+to+my+Profile!;My+name+is+Ian+Carter+Kulani." alt="Typing SVG" />
 </h1>
+
+
+
 
 ![carter](https://github.com/user-attachments/assets/e4f1708d-299c-4e2a-99aa-d1617c3880b9)
 
@@ -16,7 +20,7 @@
 
 Hello! I’m Ian Carter Kulani, a passionate technologist, cybersecurity specialist, and advocate for democratic integrity. 
 Born on October 2, 2000, in Mzimba Embangweni, Malawi—the "Warm Heart of Africa"—I’m currently pursuing a Master’s degree in Computer Science 
-at East London University, where I explore the vast universe of technology and develop solutions to complex challenges. When I’m not coding or securing digital systems, you’ll find me cheering for my beloved Boston Celtics ☘ or engaging in political discourse as a supporter of the United Democratic Front (UDF)💛.
+at East London University, where I explore the vast universe of technology and develop solutions to complex challenges. When I’m not coding or securing digital systems, you’ll find me cheering for my beloved Boston Celtics ☘ or engaging in political discourse as a supporter of the DPP.
 
   
 <p> My journey is driven by curiosity, innovation, and a deep desire to make a meaningful impact. My Academic & Professional Path Mastering the Digital World at East London University, 
@@ -39,28 +43,9 @@ Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting 
 climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
-## <p> My Hobbies & Interests
-
-* 🎮 Video Games – Sharpening strategy and creativity.
-
-* 🏀 Basketball – Proudly supporting the Boston Celtics ☘.
-
-
-* ♟️ Chess – Mastering the art of foresight.
-
-
-* 🤖 Robotics – Building intelligent machines.
-
-
-* 🎨 Drawing & Painting – Expressing ideas beyond code.
-
-
-* 🎤 Sound Engineering – Merging tech with music. 
-
-* 📸 Photography – Capturing moments that inspire.</p>
-
-
-## <p> Discipline & Precision  </p>
+## <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Discipline+%26+Precision" alt="Typing SVG" />
+</p>
 
 <p>My love for Karate , Kendama, and Origami reflects my dedication to focus, patience, and mastery—values that shape my work and life.</p>
 
@@ -81,6 +66,20 @@ If your organization needs top-tier cybersecurity solutions, let’s work togeth
 
 <p>I’m not just a coder or entrepreneur—I’m a digital advocate, a defender of democracy, and a lifelong learner. From Malawi to global stages, my journey is proof that passion, innovation, and persistence can drive real change.
 The best is yet to come—stay tuned!</p>
+
+## <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%3E+Hobbies+%26+Interests" alt="Typing SVG" />
+</p>
+
+* 🏀 Basketball🏀 ☘
+* 🎮 Video Game Development
+*  Capture The Flag (CTFs)
+* ♟️ Chess
+* 🎨 Drawing & Painting
+* 🤖 Robotics – Building intelligent machines
+* 📸 Photography – Capturing moments that inspire
+* 🎤 Sound Engineering – Merging tech with music
+*  Kendama
 
 
 ## <p>“Never Fade.” — Ian Carter Kulani</p>
