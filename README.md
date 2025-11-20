@@ -46,13 +46,17 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 * 🏀 Basketball🏀 ☘
 * 🎮 Video Game Development
-*  Capture The Flag (CTFs)
+* 🏴 Capture The Flag 💻 (CTFs)
 * ♟️ Chess
 * 🎨 Drawing & Painting
 * 🤖 Robotics – Building intelligent machines
 * 📸 Photography – Capturing moments that inspire
 * 🎤 Sound Engineering – Merging tech with music
-*  Kendama
+* 🪀 Kendama
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=900&lines=I'm+not+a+Hacker%2C+I+just+create+tools+for+Hackers." alt="Typing SVG" />
+</p>
 
 
 ## <p>“Never Fade.” — Ian Carter Kulani</p>
@@ -60,10 +64,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
   </h3>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankulani&label=Profile%20views&color=0e75b6&style=flat" alt="iankulani" /> </p>
-
-
 
 
 
