@@ -29,43 +29,16 @@ Reverse Engineering & Binary Analysis, Big Data Analytics & Deep Learning, 	Sate
 I don’t just study these subjects—I apply them to solve real-world problems. </p>
 
 
-<p>I founded @Accurate-Cyber-Defense, a Malawian cybersecurity startup, to protect critical systems from digital threats. 
-My team and I specialize in Cyber Drills & Digital Forensics, Securing SCADA Systems Against Cyber Attacks, Penetration Testing & Vulnerability Assessments,  
-In an era where cyber warfare is a growing threat, my mission is to safeguard infrastructure that impacts lives. 
+<p>I founded @Accurate-Cyber-Defense, a Malawian cybersecurity startup, to protect critical systems from digital threats. My team and I specialize in Cyber Drills & Digital Forensics, Securing SCADA Systems Against Cyber Attacks, Penetration Testing & Vulnerability Assessments, In an era where cyber warfare is a growing threat, my mission is to safeguard infrastructure that impacts lives. 
   
 Coder @Afrique-Youth-Election-Observers (AYEO), Democracy is precious, and I’m proud to contribute my skills to AYEO, a youth-led initiative ensuring fair elections across Africa. 
 We use Drones for Real-Time Election Monitoring, SQL Databases for Detecting Fraud, C++ for Secure Voting Systems, Machine Learning to Identify Irregularities, AYEO embodies my belief in transparency, 
 youth empowerment, and the power of technology to defend democracy.</p>
 
 
-<p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022) https://igf.africa/, ITU’s 11th Regional Cyber Drill for Africa (2023)https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/EVENTS/2023/Regional-Cyberdrill-for-Africa-.aspx, Space Conference for Africa (2022 & 2023)https://spaceinafrica.com/2023/10/19/excerpts-from-the-first-day-of-the-malawi-space-conference-2023/,
-Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), These experiences have deepened my expertise in cybersecurity, space tech, 
-climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
+<p>I’ve been fortunate to participate in high-impact conferences, including, African Internet Governance Forum (2022) https://igf.africa/, ITU’s 11th Regional Cyber Drill for Africa (2023)https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/EVENTS/2023/Regional-Cyberdrill-for-Africa-.aspx, Space Conference for Africa (2022 & 2023)https://spaceinafrica.com/2023/10/19/excerpts-from-the-first-day-of-the-malawi-space-conference-2023/, Pre-COP 28 (2023), SAFNOG (2024), Least Developed Countries Ministerial Meeting (2024), SADC MODEL NETP & EW4All Awareness Workshop (2024), These experiences have deepened my expertise in cybersecurity, space tech, climate resilience, and digital policy. Want me at your event? Reach out at iancarterkulani@gmail.com or shoot me on LinkedIn—I’d love to collaborate!</P>
 
 
-## <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Discipline+%26+Precision" alt="Typing SVG" />
-</p>
-
-<p>My love for Karate , Kendama, and Origami reflects my dedication to focus, patience, and mastery—values that shape my work and life.</p>
-
-<p>Join Me in Shaping the Future</p>
-
-<p>Let’s Connect on Discord</p>
-
-<p>Want to discuss AI, cybersecurity, or tech innovation? Join my Discord community and let’s build the future together.</p>
-
-<p>Support @Afrique-Youth-Election-Observers (AYEO) </p>
-
-<p> If you believe in fair elections, consider supporting AYEO through donations, volunteering, or advocacy. Every effort counts!</p>
-
-<p>Partner with @Accurate-Cyber-Defense</p>
-
-If your organization needs top-tier cybersecurity solutions, let’s work together to protect what matters.
-
-
-<p>I’m not just a coder or entrepreneur—I’m a digital advocate, a defender of democracy, and a lifelong learner. From Malawi to global stages, my journey is proof that passion, innovation, and persistence can drive real change.
-The best is yet to come—stay tuned!</p>
 
 ## <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%3E+Hobbies+%26+Interests" alt="Typing SVG" />
