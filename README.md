@@ -20,7 +20,7 @@
 
 Hello! I’m Ian Carter Kulani, a passionate technologist, cybersecurity specialist, and advocate for democratic integrity. 
 Born on October 2, 2000, in Mzimba Embangweni, Malawi—the "Warm Heart of Africa"—I’m currently pursuing a Master’s degree in Computer Science 
-at East London University, where I explore the vast universe of technology and develop solutions to complex challenges. When I’m not coding or securing digital systems, you’ll find me cheering for my beloved Boston Celtics ☘ or engaging in political discourse as a supporter of the DPP.
+at East London University, where I explore the vast universe of technology and develop solutions to complex challenges. When I’m not coding or securing digital systems, you’ll find me cheering for my beloved Boston Celtics ☘ or engaging in political discourse as a supporter of the Democratic Progressive Party (DPP💙).
 
   
 <p> My journey is driven by curiosity, innovation, and a deep desire to make a meaningful impact. My Academic & Professional Path Mastering the Digital World at East London University, 
