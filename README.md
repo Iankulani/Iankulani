@@ -53,6 +53,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
 * 📸 Photography – Capturing moments that inspire
 * 🎤 Sound Engineering – Merging tech with music
 * 🪀 Kendama
+* 🧊Rubik’s Cube 🧩
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=900&lines=I'm+not+a+Hacker%2C+I+just+create+tools+for+Hackers." alt="Typing SVG" />
