@@ -46,7 +46,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 * 🏀 Basketball🏀 ☘
 * 🎮 Video Game Development
-* 🏴 Capture The Flag 💻 (CTFs)
+* 💻 Capture The Flag 🏴 (CTFs)
 * ♟️ Chess
 * 🎨 Drawing & Painting
 * 🤖 Robotics – Building intelligent machines
