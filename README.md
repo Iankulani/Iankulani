@@ -193,12 +193,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
 />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iankulani&" alt="Iankulani" /></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iankulani&theme=default&background=FFFFFF&border_radius=8" 
-    alt="Iankulani streak stats"/>
-
 
 
 <h1 align="center">
