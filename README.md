@@ -179,14 +179,27 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=iankulani&count_private=true&show_icons=true&custom_title=Github&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8">
+  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api? username=Iankulanii&count_private=true&show_icons=true&custom_title=Github&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8">
   <br><br>
 
   <!-- Most Used Languages -->
   <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankulani&count_private=true&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c">
-</div>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankulani&" alt="iankulani" /></p>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Iankulani&theme=default&background=FFFFFF&border_radius=8"
+  alt="iankulani streak stats"
+/>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iankulani&" alt="Iankulani" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iankulani&theme=default&background=FFFFFF&border_radius=8" 
+    alt="Iankulani streak stats"/>
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
