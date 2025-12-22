@@ -178,14 +178,16 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 
 <div align="center">
- 
-<!-- Combined Stats Card -->
+
 <img src="https://github-readme-stats.vercel.app/api?username=Iankulani&show_icons=true&theme=default&bg_color=FFFFFF&border_radius=8" 
     alt="GitHub Stats" />
 
-  <!-- Most Used Languages -->
+ <!-- Most Used Languages -->
   <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankulani&count_private=true&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c">
-  </div>
+<!-- Combined Stats Card -->
+
+
+   </div>
 
 
 
