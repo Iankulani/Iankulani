@@ -99,6 +99,13 @@ youth empowerment, and the power of technology to defend democracy.</p>
 </a>
 
 <p align="left">
+  <a href="https://kick.com/iankulani" target="_blank">
+    <img src="https://img.shields.io/badge/Kick-Profile-53FC18?logo=kick&logoColor=black&style=for-the-badge" alt="Kick Profile" />
+  </a>
+</p>
+
+
+<p align="left">
   <a href="https://play.picoctf.org/users/IanKulani" target="_blank">
     <img src="https://img.shields.io/badge/picoCTF-Profile-1E90FF?style=for-the-badge" alt="picoCTF Profile" />
   </a>
@@ -125,7 +132,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
     <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge" alt="Hack The Box Profile" />
   </a>
 </p>
-
 
 
 
