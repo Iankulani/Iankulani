@@ -98,6 +98,8 @@ youth empowerment, and the power of technology to defend democracy.</p>
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
 </a>
 
+
+
 <p align="left">
   <a href="https://kick.com/iankulani" target="_blank">
     <img src="https://img.shields.io/badge/Kick-Profile-53FC18?logo=kick&logoColor=black&style=for-the-badge" alt="Kick Profile" />
@@ -125,6 +127,11 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 <p align="left"> <a href="https://steamcommunity.com/profiles/76561199868649405/" target="_blank"> <img src="https://img.shields.io/badge/Steam-iankulani1-171A21?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam iankulani1" /> </a> </p> <p align="left"> <a href="https://github.com/iankulani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Ian_Carter-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Ian Carter" /> </a> </p>
 
+<p align="left">
+  <a href="https://tryhackme.com/p/iancarterkulani" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?logo=tryhackme&logoColor=red&style=for-the-badge" alt="TryHackMe Profile" />
+  </a>
+</p>
 
 
 <p align="left">
