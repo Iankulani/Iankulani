@@ -52,8 +52,10 @@ youth empowerment, and the power of technology to defend democracy.</p>
 * 🤖 Robotics – Building intelligent machines
 * 📸 Photography – Capturing moments that inspire
 * 🎤 Sound Engineering – Merging tech with music
+* 💻 Coding
 *  🐦Origami🕊️
 * 🪀 Kendama
+* 💻 Prompt Engineering
 * 🧊Rubik’s Cube 🧩
 
 <p align="center">
