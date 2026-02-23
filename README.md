@@ -80,7 +80,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 
 <!-- Discord Invite -->
-<a href="https://discord.gg/eM5zkgu5" target="_blank">
+<a href="https://discord.com/channels/@iankulani_22174" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
 </a>
 
