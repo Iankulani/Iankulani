@@ -160,6 +160,12 @@ youth empowerment, and the power of technology to defend democracy.</p>
   </a>
 </p>
 
+<p align="left">
+  <a href="https://stackoverflow.com/users/28597811/ian-carter-kulani" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Profile" />
+  </a>
+</p>
+
   <p align="left">
   <a href="https://www.reddit.com/user/FunCorner4541" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-u%2FFunCorner4541-orange?logo=reddit&style=for-the-badge" alt="Reddit user FunCorner4541" />
