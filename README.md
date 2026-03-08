@@ -115,6 +115,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
   </a>
 </p>
 
+
 <p align="left">
   <a href="https://ratings.fide.com/profile/20509081" target="_blank">
     <img src="https://img.shields.io/badge/FIDE-Chess%20Profile-0051BA?logo=chess&logoColor=white&style=for-the-badge" alt="FIDE Chess Profile" />
@@ -124,7 +125,11 @@ youth empowerment, and the power of technology to defend democracy.</p>
 <!-- X invite -->
 <p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
 
-
+<p align="left">
+  <a href="https://leetcode.com/u/O2ua1FmXma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Profile" />
+  </a>
+</p>
 
 
 <p align="left"> <a href="https://steamcommunity.com/profiles/76561199868649405/" target="_blank"> <img src="https://img.shields.io/badge/Steam-iankulani1-171A21?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam iankulani1" /> </a> </p> <p align="left"> <a href="https://github.com/iankulani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Ian_Carter-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Ian Carter" /> </a> </p>
@@ -159,6 +164,8 @@ youth empowerment, and the power of technology to defend democracy.</p>
    
   </a>
 </p>
+
+
 
 <p align="left">
   <a href="https://stackoverflow.com/users/28597811/ian-carter-kulani" target="_blank">
