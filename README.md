@@ -1,3 +1,6 @@
+
+<img width="1345" height="439" alt="hora view" src="https://github.com/user-attachments/assets/30df5714-aace-46d2-85b2-7095c248a5f3" />
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=34&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%3E+Whoami" alt="Typing SVG" />
 </p>
