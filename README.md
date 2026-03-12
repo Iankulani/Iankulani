@@ -118,6 +118,11 @@ youth empowerment, and the power of technology to defend democracy.</p>
   </a>
 </p>
 
+<p align="left">
+  <a href="https://app.slack.com/client/T07U2A7BHHT" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-Workspace-4A154B?logo=slack&logoColor=white&style=for-the-badge" alt="Slack Workspace" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://ratings.fide.com/profile/20509081" target="_blank">
@@ -136,12 +141,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 
 <p align="left"> <a href="https://steamcommunity.com/profiles/76561199868649405/" target="_blank"> <img src="https://img.shields.io/badge/Steam-iankulani1-171A21?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam iankulani1" /> </a> </p> <p align="left"> <a href="https://github.com/iankulani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Ian_Carter-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Ian Carter" /> </a> </p>
-
-<p align="left">
-  <a href="https://tryhackme.com/p/iancarterkulani" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?logo=tryhackme&logoColor=red&style=for-the-badge" alt="TryHackMe Profile" />
-  </a>
-</p>
 
 
 <p align="left">
