@@ -136,6 +136,12 @@ youth empowerment, and the power of technology to defend democracy.</p>
 <p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
 
 <p align="left">
+  <a href="https://www.snapchat.com/web/ab06a6ac-9863-58a9-ab48-e42f28b1d0a0" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-Profile-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge" alt="Snapchat Profile" />
+  </a>
+</p>
+
+<p align="left">
   <a href="https://leetcode.com/u/O2ua1FmXma/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Profile" />
   </a>
