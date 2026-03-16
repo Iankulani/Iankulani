@@ -70,9 +70,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
   </h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankulani&label=Profile%20views&color=0e75b6&style=flat" alt="iankulani" /> </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -105,7 +103,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
 </a>
 
 
-
 <p align="left">
   <a href="https://kick.com/iankulani" target="_blank">
     <img src="https://img.shields.io/badge/Kick-Profile-53FC18?logo=kick&logoColor=black&style=for-the-badge" alt="Kick Profile" />
@@ -118,8 +115,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
     <img src="https://img.shields.io/badge/picoCTF-Profile-1E90FF?style=for-the-badge" alt="picoCTF Profile" />
   </a>
 </p>
-
-
 
 <p align="left">
   <a href="https://app.slack.com/client/T07U2A7BHHT" target="_blank">
@@ -159,8 +154,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
 </p>
 
 
-
-
 <p align="left">
   <a href="https://mastodon.social/@Iankulani" target="_blank">
     <img 
@@ -181,7 +174,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
    
   </a>
 </p>
-
 
 
 <p align="left">
@@ -209,8 +201,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
   </a>
 </p>
 
-
-
 <p align="left">
   <a href="https://bsky.app/profile/iankulani.bsky.social" target="_blank">
     <img 
@@ -218,11 +208,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
       alt="Bluesky @iankulani.bsky.social" />
   </a>
 </p>
-
-
-
-
-
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ian-carter-kulani-913679255/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iancarterkulani" height="30" width="40" /></a>
@@ -265,10 +250,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
    </div>
 
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </h1>
-
-
 
