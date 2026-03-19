@@ -189,6 +189,11 @@ youth empowerment, and the power of technology to defend democracy.</p>
 </p>
 
 <p align="left">
+  <a href="https://gitlab.com/iancarterkulani" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-@iancarterkulani-orange?logo=gitlab&style=for-the-badge" alt="GitLab @iancarterkulani" />
+  </a>
+</p>
+<p align="left">
   <a href="https://www.tiktok.com/@iancarterkulani?lang=en" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@iancarterkulani-black?logo=tiktok&style=for-the-badge" alt="TikTok @iancarterkulani" />
   </a>
@@ -200,6 +205,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
     <img src="https://img.shields.io/badge/Pinterest-@iancarterkulani-red?logo=pinterest&style=for-the-badge" alt="Pinterest @iancarterkulani" />
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://bsky.app/profile/iankulani.bsky.social" target="_blank">
