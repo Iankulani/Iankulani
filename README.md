@@ -246,14 +246,15 @@ youth empowerment, and the power of technology to defend democracy.</p>
 <div align="center">
 
 
- <!-- Most Used Languages -->
-  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankulani&count_private=true&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c">
+
+
+   <!-- Most Used Languages -->
+<img alt="most used languages" width="500px"
+     src="https://github-readme-stats.shion.dev/api/top-langs/?username=iankulani&count_private=true&theme=default&bg_color=FFFFFF&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c">
+
 <!-- Combined Stats Card -->
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Iankulani&show_icons=true&theme=default&bg_color=FFFFFF&border_radius=8" 
-    alt="GitHub Stats" />
-   </div>
+<img src="https://github-readme-stats.shion.dev/api?username=iankulani&show_icons=true&theme=default&bg_color=FFFFFF&border_radius=8"
+     alt="GitHub Stats" />
 
 
 <h1 align="center">
