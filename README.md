@@ -232,7 +232,10 @@ youth empowerment, and the power of technology to defend democracy.</p>
 <a href="https://auth.geeksforgeeks.org/user/iancartezob5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iancartezob5" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+
+
+
+<div align="left">
 
 | <a href="https://aws.amazon.com/amplify/"><img src="https://docs.amplify.aws/assets/logo-dark.svg" width="40"></a> | <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></a> | <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"></a> | <a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40"></a> | <a href="https://cordova.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="40"></a> |
 |:---:|:---:|:---:|:---:|:---:|
