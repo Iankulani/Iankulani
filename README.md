@@ -76,31 +76,55 @@ youth empowerment, and the power of technology to defend democracy.</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://codepen.io/ian-carter-kulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ian-carter-kulan" height="30" width="40" /></a>
-<a href="https://dev.to/ian_carterkulani_a1b9224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ian_carterkulani_a1b9224" height="30" width="40" /></a>
-<a href="https://twitter.com/iankulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iankulani" height="30" width="40" /></a>
-
-
-<!-- Discord Invite -->
-<a href="https://discord.com/channels/@iankulani_22174" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
-</a>
-
-<!-- Twitch Invite -->
-<a href="https://www.twitch.tv/iankulani" target="_blank" title="Watch me on Twitch!">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733641.png" alt="Twitch Logo - IanKulani" height="30" width="40" />
-</a>
-
-
-<!-- WhatsApp Invite -->
-<a href="https://wa.me/265988061969" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" />
-</a>
-
-<!-- Telegram Invite -->
-<a href="https://t.me/Iankulani" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
-</a>
+<p align="center">
+ <table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://codepen.io/ian-carter-kulan" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dev.to/ian_carterkulani_a1b9224" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/iankulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/channels/@iankulani_22174" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.twitch.tv/iankulani" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733641.png" alt="Twitch" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/265988061969" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/Iankulani" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">CodePen</td>
+    <td align="center">Dev.to</td>
+    <td align="center">Twitter</td>
+    <td align="center">Discord</td>
+    <td align="center">Twitch</td>
+    <td align="center">WhatsApp</td>
+    <td align="center">Telegram</td>
+  </tr>
+</table>
 
 
 <p align="left">
