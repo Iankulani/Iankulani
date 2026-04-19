@@ -261,3 +261,5 @@ youth empowerment, and the power of technology to defend democracy.</p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+
