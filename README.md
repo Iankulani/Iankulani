@@ -141,7 +141,7 @@ youth empowerment, and the power of technology to defend democracy.</p>
 ---
 
 
-
+### Languages and Tools
 
 <div align="left">
 
@@ -243,8 +243,5 @@ youth empowerment, and the power of technology to defend democracy.</p>
 </div>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2C9F4E&center=true&vCenter=true&width=500&lines=Ian+Carter+Kulani;Cybersecurity+Enthusiast;CTF+Player;Chess+Player+%7C+FIDE+Rated" alt="Typing SVG" />
-</p>
 
 
