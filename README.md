@@ -239,21 +239,102 @@ youth empowerment, and the power of technology to defend democracy.</p>
   </a>
 </p>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ian-carter-kulani-913679255/" height="30" width="40" /></a>
-<a href="https://kaggle.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iancarterkulani" height="30" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ian.carter.96155" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/iankulani/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-
-<a href="https://dribbble.com/iankulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iankulani" height="30" width="40" /></a>
-<a href="https://hashnode.com/@iankulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iankulani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@IanCarterKulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iancarterkulani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/venue_ray_42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venue_ray_42" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iancarterkulani" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iancarterkulani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/o2ua1fmxma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o2ua1fmxma" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@iancarterkulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@iancarterkulani" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iancartezob5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iancartezob5" height="30" width="40" /></a>
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/ian-carter-kulani-913679255/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/iancarterkulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.facebook.com/ian.carter.96155" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/iankulani/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dribbble.com/iankulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">LinkedIn</td>
+    <td align="center">Kaggle</td>
+    <td align="center">Facebook</td>
+    <td align="center">Instagram</td>
+    <td align="center">Dribbble</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://hashnode.com/@iankulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@IanCarterKulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/venue_ray_42" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/iancarterkulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/iancarterkulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Hashnode</td>
+    <td align="center">YouTube</td>
+    <td align="center">CodeChef</td>
+    <td align="center">HackerRank</td>
+    <td align="center">Codeforces</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.leetcode.com/o2ua1fmxma" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerearth.com/@iancarterkulani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/iancartezob5" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">LeetCode</td>
+    <td align="center">HackerEarth</td>
+    <td align="center">GeeksforGeeks</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 </p>
 
 
