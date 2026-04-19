@@ -73,269 +73,72 @@ youth empowerment, and the power of technology to defend democracy.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankulani&label=Profile%20views&color=0e75b6&style=flat" alt="iankulani" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-<p align="center">
- <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://codepen.io/ian-carter-kulan" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dev.to/ian_carterkulani_a1b9224" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/iankulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.com/channels/@iankulani_22174" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.twitch.tv/iankulani" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733641.png" alt="Twitch" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/265988061969" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/Iankulani" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">CodePen</td>
-    <td align="center">Dev.to</td>
-    <td align="center">Twitter</td>
-    <td align="center">Discord</td>
-    <td align="center">Twitch</td>
-    <td align="center">WhatsApp</td>
-    <td align="center">Telegram</td>
-  </tr>
-</table>
+### 🧑‍💻 Connect & Follow Me
 
+| Platform | Handle / Link | Badge |
+|----------|---------------|-------|
+| CodePen | [ian-carter-kulan](https://codepen.io/ian-carter-kulan) | ![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white) |
+| Dev.to | [@ian_carterkulani_a1b9224](https://dev.to/ian_carterkulani_a1b9224) | ![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white) |
+| Twitter (X) | [@iankulani](https://twitter.com/iankulani) | ![Twitter Follow](https://img.shields.io/twitter/follow/iankulani?style=social) |
+| Discord | @iankulani_22174 | ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) |
+| Twitch | [iankulani](https://www.twitch.tv/iankulani) | ![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white) |
+| WhatsApp | [+265988061969](https://wa.me/265988061969) | ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) |
+| Telegram | [@Iankulani](https://t.me/Iankulani) | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white) |
+| Kick | [iankulani](https://kick.com/iankulani) | ![Kick](https://img.shields.io/badge/Kick-53FC18?logo=kick&logoColor=black) |
+| Snapchat | [iankulani](https://www.snapchat.com/web/ab06a6ac-9863-58a9-ab48-e42f28b1d0a0) | ![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black) |
+| Mastodon | [@Iankulani](https://mastodon.social/@Iankulani) | ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white) |
+| Truth Social | [@IanKulani](https://truthsocial.com/@IanKulani) | ![Truth Social](https://img.shields.io/badge/Truth%20Social-ED1C24?style=flat&logo=truthsocial) |
+| Bluesky | [@iankulani.bsky.social](https://bsky.app/profile/iankulani.bsky.social) | ![Bluesky](https://img.shields.io/badge/Bluesky-2CA5E0?logo=bluesky&logoColor=white) |
 
-<p align="left">
-  <a href="https://kick.com/iankulani" target="_blank">
-    <img src="https://img.shields.io/badge/Kick-Profile-53FC18?logo=kick&logoColor=black&style=for-the-badge" alt="Kick Profile" />
-  </a>
-</p>
+---
 
+### 💼 Professional & Coding Profiles
 
-<p align="left">
-  <a href="https://play.picoctf.org/users/IanKulani" target="_blank">
-    <img src="https://img.shields.io/badge/picoCTF-Profile-1E90FF?style=for-the-badge" alt="picoCTF Profile" />
-  </a>
-</p>
+| Platform | Handle / Link | Badge |
+|----------|---------------|-------|
+| GitHub | [iankulani](https://github.com/iankulani) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| GitLab | [@iancarterkulani](https://gitlab.com/iancarterkulani) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) |
+| LinkedIn | [Ian Carter Kulani](https://linkedin.com/in/ian-carter-kulani-913679255/) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white) |
+| Stack Overflow | [28597811/ian-carter-kulani](https://stackoverflow.com/users/28597811/ian-carter-kulani) | ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white) |
+| LeetCode | [O2ua1FmXma](https://leetcode.com/u/O2ua1FmXma/) | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white) |
+| CodeChef | [venue_ray_42](https://www.codechef.com/users/venue_ray_42) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white) |
+| HackerRank | [iancarterkulani](https://www.hackerrank.com/iancarterkulani) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white) |
+| Codeforces | [iancarterkulani](https://codeforces.com/profile/iancarterkulani) | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white) |
+| HackerEarth | [@iancarterkulani](https://www.hackerearth.com/@iancarterkulani) | ![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?logo=hackerearth&logoColor=white) |
+| GeeksforGeeks | [iancartezob5](https://auth.geeksforgeeks.org/user/iancartezob5) | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white) |
+| Kaggle | [iancarterkulani](https://kaggle.com/iancarterkulani) | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white) |
+| Hashnode | [@iankulani](https://hashnode.com/@iankulani) | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white) |
 
-<p align="left">
-  <a href="https://app.slack.com/client/T07U2A7BHHT" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-Workspace-4A154B?logo=slack&logoColor=white&style=for-the-badge" alt="Slack Workspace" />
-  </a>
-</p>
+---
 
-<p align="left">
-  <a href="https://ratings.fide.com/profile/20509081" target="_blank">
-    <img src="https://img.shields.io/badge/FIDE-Chess%20Profile-0051BA?logo=chess&logoColor=white&style=for-the-badge" alt="FIDE Chess Profile" />
-  </a>
-</p>
+### 🎮 Gaming & Creative
 
-<!-- X invite -->
-<p align="left"> <a href="https://twitter.com/iankulani" target="blank"><img src="https://img.shields.io/twitter/follow/iankulani?logo=twitter&style=for-the-badge" alt="iankulani" /></a> </p>
+| Platform | Handle / Link | Badge |
+|----------|---------------|-------|
+| Steam | [iankulani1](https://steamcommunity.com/profiles/76561199868649405/) | ![Steam](https://img.shields.io/badge/Steam-171A21?logo=steam&logoColor=white) |
+| Reddit | [u/FunCorner4541](https://www.reddit.com/user/FunCorner4541) | ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white) |
+| YouTube | [@IanCarterKulani](https://www.youtube.com/@IanCarterKulani) | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white) |
+| TikTok | [@iancarterkulani](https://www.tiktok.com/@iancarterkulani) | ![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white) |
+| Instagram | [@iankulani](https://www.instagram.com/iankulani/) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white) |
+| Facebook | [ian.carter.96155](https://web.facebook.com/ian.carter.96155) | ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white) |
+| Pinterest | [@iancarterkulani](https://www.pinterest.com/iancarterkulani/) | ![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?logo=pinterest&logoColor=white) |
+| Flickr | [204283583@N08](https://www.flickr.com/photos/204283583@N08/) | ![Flickr](https://img.shields.io/badge/Flickr-FF0084?logo=flickr&logoColor=white) |
+| Dribbble | [iankulani](https://dribbble.com/iankulani) | ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white) |
 
-<p align="left">
-  <a href="https://www.snapchat.com/web/ab06a6ac-9863-58a9-ab48-e42f28b1d0a0" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-Profile-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge" alt="Snapchat Profile" />
-  </a>
-</p>
+---
 
-<p align="left">
-  <a href="https://leetcode.com/u/O2ua1FmXma/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Profile" />
-  </a>
-</p>
+### 🧠 Cybersecurity & Special Interests
 
+| Platform | Handle / Link | Badge |
+|----------|---------------|-------|
+| Hack The Box | [3015484](https://app.hackthebox.com/users/3015484) | ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black) |
+| picoCTF | [IanKulani](https://play.picoctf.org/users/IanKulani) | ![picoCTF](https://img.shields.io/badge/picoCTF-1E90FF?style=flat&logo=ctf) |
+| FIDE Chess | [20509081](https://ratings.fide.com/profile/20509081) | ![FIDE](https://img.shields.io/badge/FIDE-0051BA?logo=chess&logoColor=white) |
+| Slack Workspace | [T07U2A7BHHT](https://app.slack.com/client/T07U2A7BHHT) | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) |
 
-<p align="left"> <a href="https://steamcommunity.com/profiles/76561199868649405/" target="_blank"> <img src="https://img.shields.io/badge/Steam-iankulani1-171A21?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam iankulani1" /> </a> </p> <p align="left"> <a href="https://github.com/iankulani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Ian_Carter-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Ian Carter" /> </a> </p>
-
-
-<p align="left">
-  <a href="https://app.hackthebox.com/users/3015484" target="_blank">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge" alt="Hack The Box Profile" />
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://mastodon.social/@Iankulani" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Mastodon-@Iankulani-6364FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTMyIDRjLTIxLjIgMC0yOC4zNiAxMC4xMi0yOC4zNiAyMi41N1YzMWMwIDE5LjgxIDExLjczIDI1LjM2IDIxLjg3IDI1LjM2IDEuODMgMCAzLjY3LS4yMiA1LjQ0LS42NC40OC0uMTEuNjUtLjY3LjY1LTEuMmE1LjQ1IDUuNDUgMCAwIDEtLjA1LS44M0EyMy40MiAyMy40MiAwIDAgMSAzMiA0OGMtNi4zNiAwLTExLjQ4LTUuNjQtMTEuNzgtMTEuOTYtLjAxLS4zLS4yNS0uODMuNzYtLjc5bDMuNTYuMDJhMSAxIDAgMCAwIC45OC0uNzdoLjE0Yy42MSAwIC45Ni0uMzggLjk2LS45N3YtNC44OGMwLTYuNDYuNzMtOC40NyAxLjI2LTkuNC42My0xLjExIDEuMzMtMS4zNCAyLjQyLTEuMzMuOS4wMiAxLjU0LjMuMiAxLjQ1IDEuMDEgMi40NSAxLjM3IDIuNzkgMS41My42NC4yMSAxLjEuMDEgMS4zOC0uNTIuMTEtLjI4LjUzLTIuMDYuNzctMy4zMi4yMy0xLjI2LjQzLTIuNTUuNzUtMy42NS4xNi0uNTguMzQtMS4xMi42Ni0xLjY0LjMzLS41My44My0uOTcgMS41Mi0xLjIzIDEuODktLjY4IDQuNjgtLjgzIDYuNTgtLjgzIDMuNzYgMCA4LjM2LjY2IDExLjE4IDMuMzMuNTUuNTIuOTggMS4xMyAxLjM2IDEuOThhMjAuODMgMjAuODMgMCAwIDEgMS41IDEuOTVjLjA3LjA2LjA4LjE0LjE1LjE5LjIyLjI0LjUzLjI1Ljc1LjI1LjMzIDAgLjY5LS4xMi44Ni0uMzYuMTUtLjIyLjEyLS41Mi4xMi0uNzIgMC0xLjI3LS4wNC0yLjUtLjA3LS4zMS0uNzMtLjU3LS45NC0uODhhNC43IDQuNyAwIDAgMS0uNjMtMS42NmMtLjI0LS41My0uMjctMS4xNi0uMDMtMS42Ny4yNS0uNTYuNzUtLjkyIDEuMzUtLjk0YTQuNDcgNC40NyAwIDAgMSAzLjYxIDEuN2MxLjQzLjIzIDIuODguNjkgNC4xMSAxLjM1LjY2LjM1IDEuMzguNzYgMi4xNyAxLjIzLjc0LjQ0IDEuMjQuODQgMS40MyAxLjA1LjEyLjEzLjIuMjcuMjYuNDMuMDMuMS4wOC4yMy4xLjMuMTIuMzYuMDYuNzMuMDYuOXYxLjI4YzAgMC4zNiAwIC43Mi0uMDUuOTgtLjAyLjEtLjA3LjItLjEuMzEtLjA3LjE5LS4xNS4zNy0uMjQuNTUtMS4zIDIuNTYtMi44IDQuMjgtNC44NSA1LjYzLTIuMTggMS42Mi00Ljc2IDIuOTYtNy43NSA0LjM2LTIuNDMuODgtNS4xOCAxLjgtOC4zMyAyLjM5LTEuMi4yMi0yLjQ1LjQtMy43Mi41M0MzMy4yOSA2MCAzMiA2MCAzMiA2MGgtLjAyYy0xLjMgMC0yLjU4LS4wOS0zLjg1LS4yNi0yLjMtLjMtNC41OC0uNzUtNi42OC0xLjMzLTIuNTYtLjY3LTQuODUtMS40My02Ljk1LTIuMzVhMjQuNjkgMjQuNjkgMCAwIDEtNC44MS0yLjc2Yy0yLjctMS41OC01LjA1LTMuNjItNi43My02LjI2QzguMiA0My4yNyA2LjIgMzkuMDUgNi4yIDMxVjI2LjU3QzYuMiAxNC4xMiAxMy40IDQgMzQgNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"      alt="Mastodon @Iankulani" />
-
-
-<p align="left">
-  <a href="https://www.flickr.com/photos/204283583@N08/" target="_blank">
-    <img src="https://img.shields.io/badge/Flickr-Photo%20Gallery-FF0084?logo=flickr&logoColor=white&style=for-the-badge" alt="Flickr Photo Gallery" />
-  </a>
-</p>
-
-<p align="left">
-<a href="https://truthsocial.com/@IanKulani" target="_blank" rel="noopener">
-   <img src="https://img.shields.io/badge/TruthSocial-@IanKulani-ED1C24?style=for-the-badge" alt="Truth Social @IanKulani" />
- </a>
-</p>
-   
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://stackoverflow.com/users/28597811/ian-carter-kulani" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Profile" />
-  </a>
-</p>
-
-  <p align="left">
-  <a href="https://www.reddit.com/user/FunCorner4541" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-u%2FFunCorner4541-orange?logo=reddit&style=for-the-badge" alt="Reddit user FunCorner4541" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://gitlab.com/iancarterkulani" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-@iancarterkulani-orange?logo=gitlab&style=for-the-badge" alt="GitLab @iancarterkulani" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.tiktok.com/@iancarterkulani?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@iancarterkulani-black?logo=tiktok&style=for-the-badge" alt="TikTok @iancarterkulani" />
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://www.pinterest.com/iancarterkulani/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-@iancarterkulani-red?logo=pinterest&style=for-the-badge" alt="Pinterest @iancarterkulani" />
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://bsky.app/profile/iankulani.bsky.social" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Bluesky-@iankulani.bsky.social-2CA5E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABg3Am7AAAABHNCSVQICAgIfAhkiAAAAW9JREFUaIHtWEsOw0AUXRtrZtCKJK0EhaXYO2ZgktxBGwV7tCEgDykTQgTYgRaYhBx2FT38zNz+wnzzcyRTln1pmkakqmTqi3ACuyQOAN5BrTASLzFdFGcMTFMHJGOpqxdh37AoDMe0xOXYQwHY+0CXnBD9v4JAL+RR/3AHMfDEz4EQlmxofQUKd2kc8NKk+CKADSCMD4HAvpv4CV9jY2y0CLX+j1erZrGowUY2gW8bqQGTB+j4egfuWMWYFZLMDa1x3TCswAyHaRYRGh8kK8zLkCTAX7gS1smUJz3VzzlMBtvIv7TXCeM3GM/LoWsTrQv9MeLR+YzhrhWQAAAABJRU5ErkJggg==" 
-      alt="Bluesky @iankulani.bsky.social" />
-  </a>
-</p>
-
-<table align="left">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/ian-carter-kulani-913679255/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kaggle.com/iancarterkulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://web.facebook.com/ian.carter.96155" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/iankulani/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dribbble.com/iankulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">LinkedIn</td>
-    <td align="center">Kaggle</td>
-    <td align="center">Facebook</td>
-    <td align="center">Instagram</td>
-    <td align="center">Dribbble</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://hashnode.com/@iankulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/@IanCarterKulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/venue_ray_42" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/iancarterkulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/iancarterkulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Hashnode</td>
-    <td align="center">YouTube</td>
-    <td align="center">CodeChef</td>
-    <td align="center">HackerRank</td>
-    <td align="center">Codeforces</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.leetcode.com/o2ua1fmxma" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerearth.com/@iancarterkulani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://auth.geeksforgeeks.org/user/iancartezob5" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">LeetCode</td>
-    <td align="center">HackerEarth</td>
-    <td align="center">GeeksforGeeks</td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-</p>
+---
 
 
 
@@ -438,4 +241,10 @@ youth empowerment, and the power of technology to defend democracy.</p>
 
 
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2C9F4E&center=true&vCenter=true&width=500&lines=Ian+Carter+Kulani;Cybersecurity+Enthusiast;CTF+Player;Chess+Player+%7C+FIDE+Rated" alt="Typing SVG" />
+</p>
+
 
