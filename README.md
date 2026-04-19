@@ -292,8 +292,6 @@ youth empowerment, and the power of technology to defend democracy.</p>
 | <a href="https://zapier.com"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"></a> | | | | |
 | **Zapier** | | | | |
 
-</div>
-
 
 
 
